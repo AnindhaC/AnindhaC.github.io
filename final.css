@@ -1,0 +1,94 @@
+#beach{
+    background-image: url(https://img.jakpost.net/c/2017/08/02/2017_08_02_30495_1501654303._large.jpg);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 75px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+     width: 100%;
+     height: auto;
+     text-align: center;
+    font-family: Raleway;
+    font-size: 75px;
+}
+
+#mountain{
+    background-image: url(https://media.beritagar.id/2018-09/947b955b79bede9b72c98a68d688d330.jpg);
+    height: 500px;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 75px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lake{
+    background-image: url(https://cdn-u1-gnfi.imgix.net/post/large-fixedw-large-4x-32ccb643fd95440d969a9115c64198d5.jpg);
+    height: 500px;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 75px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#candi{
+    background-image: url(https://blog.airpaz.com/wp-content/uploads/Borobudur-Sunrise-1.png);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 75px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#park{
+    background-image: url(https://statik.tempo.co/data/2015/12/19/id_465544/465544_620.jpg);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 75px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+    
+#city{
+    background-image: url(http://duniarentaljogja.com/wp-content/uploads/2015/05/yogyakarta.jpg);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 75px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#linkpark {
+    text-decoration: none;
+    color:black;
+}
+
+#linkbeach{
+    text-decoration: none;
+    color:black;
+}
+
+#linkmountain{
+    text-decoration: none;
+    color:black;
+}
+
+#linkcity {
+    text-decoration: none;
+    color:black;
+}
+
+#linktemple {
+    text-decoration: none;
+    color:black;
+}
+
+#linklake {
+    text-decoration: none;
+    color:black;
+}
