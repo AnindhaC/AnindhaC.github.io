@@ -7,13 +7,7 @@
     background-size: cover;
 }
 
-.btn{
-     width: 100%;
-     height: auto;
-     text-align: center;
-    font-family: Raleway;
-    font-size: 75px;
-}
+
 
 #mountain{
     background-image: url(https://media.beritagar.id/2018-09/947b955b79bede9b72c98a68d688d330.jpg);
@@ -66,29 +60,42 @@
 #linkpark {
     text-decoration: none;
     color:black;
+    font-family: Raleway;
+    font-size: 75px;
 }
 
 #linkbeach{
     text-decoration: none;
     color:black;
+    font-family: Raleway;
+    font-size: 75px;
 }
 
 #linkmountain{
     text-decoration: none;
     color:black;
+    font-family: Raleway;
+    font-size: 75px;
 }
 
 #linkcity {
     text-decoration: none;
     color:black;
+    font-family: Raleway;
+    font-size: 75px;
 }
 
 #linktemple {
     text-decoration: none;
     color:black;
+    font-family: Raleway;
+    font-size: 75px;
 }
 
 #linklake {
     text-decoration: none;
     color:black;
+    font-family: Raleway;
+    font-size: 75px;
 }
+
